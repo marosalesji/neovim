@@ -1,0 +1,15 @@
+barbar.lua
+catppuccin-theme.lua
+clang-format.lua
+cmp.lua
+comment.lua
+csv.lua
+example.lua
+gitsigns.lua
+lazygit.lua
+lualine.lua
+navigator.lua
+nvim-surround.lua
+python.lua
+repos.txt
+telescope.lua
